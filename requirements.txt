@@ -1,0 +1,13 @@
+# ==============================================================================
+# Requirements File: Python Student Management System
+# ==============================================================================
+# This file lists the external Python packages required to run this project.
+# You can install them by running:
+#     pip install -r requirements.txt
+#
+# Note: 'sqlite3' is built into Python's Standard Library, so it does not
+# need to be installed separately.
+# ==============================================================================
+
+streamlit>=1.30.0
+pandas>=2.0.0
